@@ -9,14 +9,18 @@ The page presents NOVA as a calm, premium AI workspace for teams. The design use
 📸 Screenshots
 
 ### 🖥️ Desktop — Hero Section
-  ![Hero Section](<Screenshot 2026-09-09 134828.png>)
+  <img width="1797" height="889" alt="Screenshot 2026-09-09 134828" src="https://github.com/user-attachments/assets/bf096875-a002-4f50-ae6e-ce01c0a76626" />
 
 ### 🧩 Features & Solutions
-  ![Features](<Screenshot 2026-09-09 134943.png>)
-  ![Solution](<Screenshot 2026-09-09 135023.png>)
+  <img width="1920" height="1080" alt="Screenshot 2026-09-09 134943" src="https://github.com/user-attachments/assets/5118c2b1-7b12-4626-b4ac-f49829ad94e8" />
+  
+  <img width="1920" height="1080" alt="Screenshot 2026-09-09 135023" src="https://github.com/user-attachments/assets/d844202d-15d1-4a30-822e-0cc60598f4d4" />
+
 
 ### ⚙️ How It Works
- ![How It Works](<Screenshot 2026-09-09 135014.png>)
+ 
+ <img width="1920" height="1080" alt="Screenshot 2026-09-09 135014" src="https://github.com/user-attachments/assets/b638a77b-85f3-4694-ba9c-bf18fbaed9e5" />
+
 
 
 ## Technologies used
