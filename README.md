@@ -7,14 +7,14 @@ NOVA is a fictional AI-powered productivity platform landing page built to demon
 The page presents NOVA as a calm, premium AI workspace for teams. The design uses a dark editorial style, subtle glass surfaces, violet/cyan gradients, strong typography and a dashboard-inspired hero panel.
 
 📸 Screenshots
-### 🖥️ Desktop — Hero Section
+### 🖥️ Desktop — Hero Section (light mode)
   ![Hero Section](<Screenshot 2026-09-09 134828.png>)
 
-### 🧩 Features & Solutions
+### 🧩 Features & Solutions (Dark mode)
   ![Features](<Screenshot 2026-09-09 134943.png>)
   ![Solution](<Screenshot 2026-09-09 135023.png>)
 
-### ⚙️ How It Works
+### ⚙️ How It Works (Dark mode)
  ![How It Works](<Screenshot 2026-09-09 135014.png>)
 
 
